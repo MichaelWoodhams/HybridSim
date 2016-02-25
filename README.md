@@ -8,7 +8,13 @@ The program is described in the paper "Modelling Hybrid Evolution" by Michael Wo
 
 Included in this repository are the program as a jar file, the manual, and some sample input files.
 
-Source code is in:
+hybridsim319.jar: the executable (Java jar file)
+HybridSim_manual.pdf: The manual
+examples.tgz: Example input files
+hybridsim_source.tgz: All the source in one bundle. (Collected for your convenience from sources listed below.) (Some third party libraries supplied as jar files - you can find source at their websites.)
+hybridsim_manual_source.tgz: source (*.bib, *.lyx) of the manual, plus a *.tex export of the *.lyx file.
+
+The source code is collected from:
 
 https://github.com/MichaelWoodhams/ABC
 
